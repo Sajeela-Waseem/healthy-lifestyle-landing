@@ -66,7 +66,7 @@ export default function ProductCard({ product }) {
             rel="noopener noreferrer sponsored"
             className="rounded-full bg-yellow-700 px-5 py-2 text-sm font-semibold text-white transition hover:bg-yellow-800"
           >
-            Buy on Amazon
+            Buy Now
           </a>
         </div>
       </div>
