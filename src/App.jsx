@@ -176,7 +176,7 @@ export default function App() {
             <div className="flex items-center gap-3 text-sm text-slate-600">
               <span>Best sellers</span>
               <span className="h-1 w-1 rounded-full bg-slate-400" />
-              <span>New arrival</span>
+              <span>New arrivals</span>
             </div>
           </div>
 
