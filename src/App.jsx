@@ -285,7 +285,7 @@ export default function App() {
 
       <footer className="border-t border-yellow-300/80 bg-white py-8">
         <div className="mx-auto max-w-7xl px-4 text-center text-xs text-slate-500 sm:px-6">
-          As an Amazon Associate, this site earns from qualifying purchases. Product links above may be affiliate links.
+         © 2026 All Rights Reserved.
         </div>
       </footer>
     </div>
